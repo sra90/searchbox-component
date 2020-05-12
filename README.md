@@ -1,4 +1,4 @@
-# searchbox-component
+# Searchbox Native Component
 SearchBox native javascript component using Shadow DOM with dropdown filter, keyboard and mouse actions, scrollintoview, api support, and more.  
 
 You can just open index.html to see how it works.  
